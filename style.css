@@ -19,6 +19,10 @@ p{
     text-align: center;
 }
 
+#progressBarContainer{
+    transform: rotate(180deg);
+}
+
 .buttonSection{
     width: 100%;
     padding-top: 3rem;
